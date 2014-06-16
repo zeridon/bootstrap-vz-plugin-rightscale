@@ -1,0 +1,2 @@
+bootstrap-vz-plugin-rightscale
+==============================
